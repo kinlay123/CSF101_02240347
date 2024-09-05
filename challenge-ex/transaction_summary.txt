@@ -1,0 +1,4 @@
+The total sales from SOLD transaction: $3013.02
+Most Popular Fruit: grapes (228 transactions)
+Average Transaction_Value: $15.06
+Biggest Spender: Person59 with $118.24 spent on 'bought' transactions
